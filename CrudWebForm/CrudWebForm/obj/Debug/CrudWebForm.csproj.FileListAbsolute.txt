@@ -1,0 +1,10 @@
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\bin\Debug\CrudWebForm.exe.config
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\bin\Debug\CrudWebForm.exe
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\bin\Debug\CrudWebForm.pdb
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.csprojResolveAssemblyReference.cache
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.Form1.resources
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.Properties.Resources.resources
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.csproj.GenerateResource.Cache
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.csproj.CoreCompileInputs.cache
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.exe
+D:\C# Practice\WebFormCrud\CrudWebForm\CrudWebForm\obj\Debug\CrudWebForm.pdb
